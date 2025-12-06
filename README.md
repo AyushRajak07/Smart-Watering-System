@@ -46,7 +46,7 @@ https://thingspeak.com/channels/2564339
 (Real public channel — you can see live updates when running!)
 
 ## Run Online Instantly (No Hardware Needed)
-https://wokwi.com/projects/383947283947203585  
+[https://wokwi.com/projects/383947283947203585](https://wokwi.com/projects/449410093791692801)  
 Just click "Start" — it works immediately!
 
 ## How to Use on Real Hardware
