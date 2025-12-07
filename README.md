@@ -1,4 +1,4 @@
-# Soil-Moisture-Sensor
+# Smart Watering System
 <img width="1920" height="1030" alt="Wokwi - Online ESP32, STM32, Arduino Simulator - Google Chrome 06-12-2025 15_15_05" src="https://github.com/user-attachments/assets/e6179abf-8c7c-4b8b-81ad-29d429b8b1c0" />
 # Smart Plant Watering System with OLED & ThingSpeak
 
